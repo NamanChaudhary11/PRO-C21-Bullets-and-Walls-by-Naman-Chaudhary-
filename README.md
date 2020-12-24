@@ -1,2 +1,2 @@
-# Project-21-Bullets-and-Walls-by-Naman-Chaudhary-
-its  based on  collision detection algorithm :)
+# p5.play-boilerplate
+Boiler plate for p5.play
